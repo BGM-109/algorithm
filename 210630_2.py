@@ -15,3 +15,5 @@ def solution(record):
             answer.append(str)
 
     return answer
+
+# 오픈채팅방
